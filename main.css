@@ -1,0 +1,57 @@
+.box
+{
+	width: 14%;
+	padding-bottom: 14%;
+	float: left;
+	/*margin: 1.6%;*/
+	border: 1px solid black;
+}
+
+#mouse
+{
+	padding-bottom: 0%;
+	height: 14%;
+}
+
+.land
+{
+	background-color: green;
+}
+
+.water
+{
+	background-color: blue;
+}
+
+.bridge
+{
+	background-color: orange;
+}
+
+h1
+{
+	text-align: center
+}
+
+.DFA
+{
+	height: auto;
+	height: 800px;
+	width: 800px;
+	margin: 20px auto;
+}
+
+body
+{
+	background-color: cornflowerblue;
+}
+
+h2
+{
+	text-align: center;
+}
+
+#ans
+{
+	text-align: center;
+}
